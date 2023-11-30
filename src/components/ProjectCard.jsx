@@ -2,7 +2,7 @@ import React from 'react'
 
 const Project = ({name,desc,link,code}) => {
   return (
-    <div className='text-amber-300 border-2 md:h-96 h-80 md:w-72 w-72 rounded-xl '>
+    <div className='text-amber-300 border-2 h-96 md:w-72 w-72 rounded-xl '>
       <div className='md:h-8 h-6 border-b-2 flex items-center '>
         <div className='bg-red-500 rounded-full h-2 w-2 ml-3'></div>
         <div className='bg-amber-400 rounded-full h-2 w-2 ml-3'></div>
