@@ -14,7 +14,7 @@ const Project = ({name,desc,link,code}) => {
         <span className='md:text-2xl text-xl font-extrabold'>{name}</span>
         <p className='text-sm md:text-md mt-5'>{desc}</p>
       </div>
-        <div className=' md:mt-5 mt-2 text-center '>
+        <div className=' mt-5 mt-2 text-center '>
         <a  href={link}><span className="transition-all duration-300 hover:bg-green-500 font-extrabold hover:text-black border-r-4 border-b-4 border px-5 py-2 rounded-lg text-green-500" >Live</span></a>
         <a href={code}><span className="transition-all duration-300 hover:bg-blue-500 font-extrabold hover:text-black border-r-4 border-b-4 border px-5 py-2 rounded-lg ml-3 text-blue-500" >Code</span></a>
         </div>
