@@ -28,15 +28,7 @@ const About = () => {
               title="HTML5 Powered"
             />
           </a>
-          <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            {" "}
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-              alt="bootstrap"
-              width="63"
-              height="64"
-            />{" "}
-          </a>{" "}
+
           <a
             href="https://www.w3schools.com/css/"
             target="_blank"
@@ -85,6 +77,51 @@ const About = () => {
             {" "}
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+              alt="react"
+              width="63"
+              height="64"
+            />{" "}
+          </a>
+          <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+            {" "}
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+              alt="react"
+              width="63"
+              height="64"
+            />{" "}
+          </a>
+          <a href="https://typescriptlang.org/" target="_blank" rel="noreferrer">
+            {" "}
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+              alt="react"
+              width="63"
+              height="64"
+            />{" "}
+          </a>
+          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            {" "}
+            <img
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  
+              alt="react"
+              width="63"
+              height="64"
+            />{" "}
+          </a>
+          <a href="https://mongodb.com.org/" target="_blank" rel="noreferrer">
+            {" "}
+            <img
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"   
+              alt="react"
+              width="63"
+              height="64"
+            />{" "}
+          </a>
+          <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+            {" "}
+            <img
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"   
               alt="react"
               width="63"
               height="64"
