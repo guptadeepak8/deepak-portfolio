@@ -6,7 +6,7 @@ const Projects = () => {
   const projectData=[
     {
       name:'Jotion',
-      desc:'A Notion clone designed with user-friendly features to organize ideas. Built using modern frameworks Next.js, ShadowUI, and Tailwind CSS for the frontend Additionally, it utilizes Convex for the backend and Clerk for secure authentication',
+      desc:'Jotion designed with user-friendly features to organize ideas. Built using modern frameworks Next.js, ShadowUI, and Tailwind CSS for the frontend Additionally, it utilizes Convex for the backend and Clerk for secure authentication',
       link:'https://noter-app-delta.vercel.app',
       code:'https://github.com/guptadeepak8/notion-clone',
    },
