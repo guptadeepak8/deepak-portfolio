@@ -16,9 +16,8 @@ const Projects = () => {
       tech:['React','Redux','Tailwind','Node.js','Express','JWT'],
    },
     {
-      name:'Jotion',
-      desc:'Created a tool to help users organize and manage their ideas easily with a user-friendly design. Built using modern frameworks Next.js, ShadcnUI, and Tailwind CSS for the frontend Additionally, it utilizes Convex for the backend and Clerk for secure authentication',
-      img:jotionimg,
+      name:'Notion-clone',
+      desc:'A Notion clone designed with user-friendly features to organize ideas. Built using modern frameworks Next.js, ShadowUI, and Tailwind CSS for the frontend Additionally, it utilizes Convex for the backend and Clerk for secure authentication',
       link:'https://noter-app-delta.vercel.app',
       code:'https://github.com/guptadeepak8/notion-clone',
       tech:['Next.js','ShadcnUI','Tailwind','Convex','Clerk'],
