@@ -2,18 +2,16 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="h-96" id='about'>
+    <div className="mb-20 md:mx-12" id='about'>
       <div className="text-center mb-10">
-        <span className="text-2xl md:text-5xl text-amber-500 font-extrabold">
+        <span className="text-3xl md:text-5xl text-amber-500 font-extrabold">
           My Skillsets
         </span>
       </div>
       <div className="mx-8 md:mx-20">
         <div className="text-md md:text-2xl text-green-500 mb-4">
           {" "}
-          My skill-set include building responsive web apps in ReactJS and
-          projects using HTML, CSS and Vanilla JS. I am familiar with Git,
-          Github and Web Hosting. I have also created projects using MERN stack
+          I am a Frontend Engineer skilled in React.js, Next.js, and Tailwind CSS. I build robust backend solutions with Node.js, Express.js, and Prisma. Proficient in TypeScript and Redux, I create scalable and secure web applications, ensuring modern and responsive designs.
         </div>
         <div className="text-md md:text-2xl text-green-500 mb-2">
         Technoloies I know
