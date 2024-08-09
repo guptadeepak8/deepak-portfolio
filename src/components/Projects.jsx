@@ -11,8 +11,8 @@ const Projects = () => {
       name:'CareerLink',
       desc:'Developed a job portal with React, Redux for state management, and Tailwind CSS for styling the frontend. Built the backend using Node.js and Express to handle data management and application logic Implemented JWT for secure authentication and Passport for password management.',
       img:careerimg,
-      link:'https://noter-app-delta.vercel.app',
-      code:'https://github.com/guptadeepak8/notion-clone',
+      link:'https://career-link.netlify.app',
+      code:'https://github.com/guptadeepak8/careerlink',
       tech:['React','Redux','Tailwind','Node.js','Express','JWT'],
    },
     {
